@@ -19,3 +19,5 @@ mnist_inference.py：模型结构
 MNIST_reader.py：读取数据集
 randomized_response.py：随机响应机制（增强联邦学习客户端选择过程的随机性）
 sample：主函数
+
+-- Tensorflow==1.4.1 python2.7
